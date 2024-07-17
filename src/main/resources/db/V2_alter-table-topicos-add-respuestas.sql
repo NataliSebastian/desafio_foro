@@ -1,0 +1,1 @@
+alter table topicos add respuestas varchar(20) not null
